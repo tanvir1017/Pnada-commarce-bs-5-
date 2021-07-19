@@ -3,8 +3,34 @@
     color: #fff;
     background-image: linear-gradient(#e83e8c, #ff136f);
 }
+.my-btn:hover
+{
+    color: #fff;
+}
 .my-slider
 {
     background-color: #FCEAE8;
+}
+.my-cetagories-1
+{
+    background-color: #FFA500;
+}
+.my-cetagories-2
+{
+    background-color: #DA70D6;
+}
+.my-cetagories-3
+{
+    background-color: #0000FF;
+}
+.my-title-bags
+{
+    border: 1px solid #DA70D6;
+    color: #DA70D6;
+}
+.my-title-shoes
+{
+    border: 1px solid #0000FF;
+    color: #0000FF;
 }
 /* utiles */
