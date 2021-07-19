@@ -1,4 +1,8 @@
 /* utiles */
+html
+{
+    scroll-behavior: smooth;
+}
 .my-btn{
     color: #fff;
     background-image: linear-gradient(#e83e8c, #ff136f);
